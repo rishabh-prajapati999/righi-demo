@@ -1,4 +1,4 @@
-# right-demo
+# rishabh-demo
 this is my first repositoty
 <br>
 Author - rishabh prajaparti
